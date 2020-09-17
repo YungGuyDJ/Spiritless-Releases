@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Spiritless-BETA
 
-You can use the [editor on GitHub](https://github.com/YungGuyDJ/Spiritless-Releases/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the soon to be Spiritless-BETA download area. It may not look like much but we are preparing for a release to knock your socks off! Spiritless is a game of which was written by some guys who got together and started working. In Spiritless you are a lost soul who is trying to attain freedom by overcoming your fears, as you continue through the story you gain access to new abilities by overcoming fears or defeating bosses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Planned Release
 
-### Markdown
+Our current plan is to have the released BETA to you by the end of March 2021, it may seem like a ways away but it is a very ambitious goal we plan to meet to at least propose the game idea to you guys. But do keep in mind that you may wanna follow this repo and check back at least weekly to the website because we will start releasing concept art and music along with screenshots and screenrecordings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Conclusion
 
-```markdown
-Syntax highlighted code block
+We are so glad that you guys are showing interst in Spiritless before we have even publicly addressed it, it is truely an honor and we hope you stick around for more!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YungGuyDJ/Spiritless-Releases/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+P.S.
+You're awesome :)
