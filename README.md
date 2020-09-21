@@ -8,7 +8,7 @@ Our current plan is to have the released BETA to you by the end of March 2021, i
 
 ### Help Us Out
 
-Even though this page will release closed source packages does not mean you can't help us! If you are playing the game and notice a bug then go to Issues and file a bug report, when we finish it we will release a new version and tag you in it thanking you for the help! Also keep watch cause we will be releasing our discord, please join and if possibe send us a donation (the more donations the more motivated we will be to help bring you more stuff), it will also help cover costs (game making and publishing is not cheap)
+Even though this page will release closed source packages does not mean you can't help us! If you are playing the game and notice a bug then go to Issues and file a bug report, when we finish it we will release a new version and tag you in it thanking you for the help! Also keep watch cause we will be releasing our **[Discord](https://discord.gg/wkCGm7W)**, please join and if possibe send us a donation (the more donations the more motivated we will be to help bring you more stuff), it will also help cover costs (game making and publishing is not cheap)
 
 ### Join Us
 
